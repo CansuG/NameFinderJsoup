@@ -9,3 +9,14 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+.idea/.gitignore
+.idea/bim207-hw2-2020-CansuG.iml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+src/main/resources/
+src/test/
+.idea/bim207-hw2-2020-CansuG-main.iml
